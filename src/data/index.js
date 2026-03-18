@@ -43,7 +43,7 @@ export const INTERESTS = [
 ];
 
 export const PROJECTS = [
-  
+
   {
     id: "panda",
     title: "PANDA",
